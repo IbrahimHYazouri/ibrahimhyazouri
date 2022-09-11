@@ -1,1 +1,6 @@
-<h1 align="center">Hi There  I'am Ibrahim H Yazouri</h1>
+<div align="center">
+  <h3>Hi There  I'am Ibrahim H Yazouri</h3>
+
+  <p>Front-End Developer</p>
+  <span>Html, Css, JS, Bootstrap, Sass</span>
+</div>
